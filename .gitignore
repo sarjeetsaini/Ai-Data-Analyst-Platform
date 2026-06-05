@@ -1,0 +1,4 @@
+temp_db.db
+.ipynb_checkpoints/
+__pycache__/
+secrets.toml
